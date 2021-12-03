@@ -7,6 +7,7 @@ using UnityEngine;
 
 public class Car : MonoBehaviour
 {
+    //nmatichuk: some comments I added
     [SerializeField] float TurnSpeed = 220f;
     [SerializeField] float CarSpeed = 10f;
     [SerializeField] float SlowSpeed = 15f;
